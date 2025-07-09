@@ -18,11 +18,6 @@ I'm using this to enhance my algorithmic thinking, data structures knowledge, an
 - ✅ Graphs & Trees
 - ✅ Greedy, Stack, Queue & More...
 
-## 📈 Progress Tracker
-| Date       | Problem Link | Topic                 | Status |
-|------------|--------------|------------------------|--------|
-| 2025-07-09 | [Problem 1](https://codeforces.com/) | Arrays & Prefix Sum     | ✅ Done |
-| 2025-07-10 | [Problem 2](https://codeforces.com/) | Two Pointers            | 🔄 In Progress |
 
 ## 🛠️ How I Solve
 Each solution is:
