@@ -1,7 +1,7 @@
-package day1.bitplusplus;
+package day1.petyaandstring;
 import java.util.Scanner;
 
-public class BitPlusPlus {
+public class PetyaAndString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String firstGift = scanner.nextLine(), secondGift = scanner.nextLine();
